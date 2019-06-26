@@ -1,0 +1,5 @@
+addpath('example 1 - ECM and doubt')
+addpath('example 2 - Simulated 2')
+addpath('example 3 - Turbofan datasets')
+addpath('example 3 - Turbofan datasets/data')
+addpath('utils')
